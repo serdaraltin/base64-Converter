@@ -1,0 +1,8 @@
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\bin\Debug\base64-app.exe
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\bin\Debug\base64-app.pdb
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64_app.Form1.resources
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64_app.Properties.Resources.resources
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64-app.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64-app.exe
+c:\users\main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64-app.pdb
+C:\Users\Main\documents\visual studio 2010\Projects\Converter\base64-app\obj\x86\Debug\base64-app.csprojResolveAssemblyReference.cache
